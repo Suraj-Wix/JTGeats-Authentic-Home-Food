@@ -14,7 +14,7 @@ JTGeats is a clean, mobile-friendly landing website template designed for showca
 - Simple “Add to Cart” button behavior with count display  
 ---
 ##  Demo & Usage
-1. **Clone the repository:**
+1. *Clone the repository:*
    ```bash
    git clone https://github.com/Suraj-Wix/JTGeats-Authentic-Home-Food.git
    JTGeats-Authentic-Home-Food/
@@ -26,4 +26,5 @@ JTGeats is a clean, mobile-friendly landing website template designed for showca
 
 
   
+
 
