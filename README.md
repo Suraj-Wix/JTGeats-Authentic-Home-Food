@@ -1,4 +1,4 @@
- # JTGeats — Authentic Home Food
+# # JTGeats — Authentic Home Food
 **Responsive static website template for home-cooked food delivery**
 ---
 ##  About
